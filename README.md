@@ -21,6 +21,7 @@ I'm Sarah Kinner and I'm a student at Brigham Young University-Idaho interested 
 - HTML
 - CSS
 - JavaScript
+- Rust
 
 ### Tools and Concepts
 - GitHub
@@ -32,6 +33,12 @@ I'm Sarah Kinner and I'm a student at Brigham Young University-Idaho interested 
 - Version Control
 - Debugging
 - Cybersecurity Fundamentals
+
+## Projects
+
+- [Mobile-App-For_Realsies] – This a Magic 8 Ball app made through Flutter where you can press a button, a random image/answer will appear each time, and small animations to make it more realistic.
+- [wdd131] – A website filled with links/projects that helped me learn more about designing, user interaction,and javascript. The character storage project is one that I did on my own.
+- [Rust] – Through the coding language Rust I made a typing program where it'll give you a list of words to type and at the end of each round it'll show the accuracy, words per minute, time it took for that round, and shows what words the user got incorrectly.
 
 ## Let's Connect!
 
